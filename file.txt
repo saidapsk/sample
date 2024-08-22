@@ -1,0 +1,3 @@
+saidakhan i am 738650149
+# include <stdio.h>
+
